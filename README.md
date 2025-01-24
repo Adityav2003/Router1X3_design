@@ -28,23 +28,10 @@ This project implements a **1x3 router** designed for packet-based communication
 Include screenshots of simulations, waveform outputs, RTL schematics, and Spyglass analysis results here:  
 
 1. **Simulation Results**  
-   ![Simulation Results](path/to/simulation_screenshot.png)  
+   ![Simulation Results](./screenshots/top_sim.png)  
 
 2. **Waveform Output**  
-   ![Waveform Output](path/to/waveform_screenshot.png)  
-
-3. **RTL Schematic**  
-   ![RTL Schematic](path/to/rtl_schematic_screenshot.png)  
-
-4. **Spyglass Report**  
-   ![Spyglass Report](path/to/spyglass_report_screenshot.png)  
-
-*(Replace `path/to/...` with the relative path to your screenshot files in the project directory.)*  
+   ![Waveform Output](./screenshots/schem.png)  
 
 ---
 
-## Contact  
-For questions or collaboration, please reach out to:  
-**[Your Name]**  
-**Email**: [your_email@example.com]  
-**GitHub**: [Your GitHub Profile]  
